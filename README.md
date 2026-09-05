@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from West Bengal, India.<br><br>- 🔭 I’m currently in college<br>- 📚 I'm currently learning Docker<br>- ⚡ In my free time, I produce original music</p>
+<p align="left">I'm from West Bengal, India.<br><br>- 🔭 I’m not in college anymore :(<br>- 📚 I'm currently working to build something for sure... :)<br>- ⚡ In my free time, I scroll reels now :(</p>
 
 ###
 
